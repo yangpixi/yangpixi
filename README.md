@@ -51,3 +51,8 @@ I'm a Backend Engineer focused on Java & Cloud Native. Exploring Kotlin Multipla
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangpixi)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📅 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yangpixi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=00ff88&point=00ff88" alt="Activity Graph">
+</div>
+
