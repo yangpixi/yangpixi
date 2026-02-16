@@ -49,7 +49,5 @@ I'm a Backend Engineer focused on Java & Cloud Native. Exploring Kotlin Multipla
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangpixi&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangpixi&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangpixi)](https://github.com/anuraghazra/github-readme-stats)
+
