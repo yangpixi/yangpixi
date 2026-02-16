@@ -1,49 +1,49 @@
 ### Hi there, I'm yangpixi 👋
 
-I'm a Backend Engineer focused on Java & Cloud Native. Exploring Kotlin Multiplatform and golang.
-
 - 📫 How to contact me： yang20070135@gmail.com
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>Postgres
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+- 🎓 **Computer science Student** at Central South University (China Changsha)
+- I'm a Backend Engineer focused on Java & Cloud Native. Exploring Kotlin Multiplatform and golang.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+  ### Languages
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+    <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+    <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  </p>
+
+  ### Framworks
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Mysql" />
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  </p>
+
+  ### Tools
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Idea" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+    <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="Pycharm" />
+  </p>
+  
+  
+</div>
 
 ---
 
