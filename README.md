@@ -49,7 +49,13 @@
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangpixi)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=yangpixi)](https://git.io/streak-stats)
+
+  
+</div>
+
 
 ### 📅 Contribution Graph
 <div align="center">
